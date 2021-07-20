@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinit</h1>
-<h3 align="center">A passionate frontend developer and mobile application lover</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 - 🔭 I’m currently working on [chatbot](https://github.com/vinitdhoke/chatbot-javascript)
 
